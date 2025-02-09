@@ -1,7 +1,4 @@
-- 👋 ello im meepzy
-- 🥬lettuce
-- 🌱 PLANTS
-- 📫 how to reach me: osu! DMs
+fire
 
 <!---
 meepzyosu/meepzyosu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
